@@ -1,0 +1,3 @@
+        if ballpos_y == holz_pos2 and not ballpos_x  >= speeds1 and not ballpos_x + ballbreite <= speeds1 + schildbreite or not ballpos_y == holz_pos4 and not ballpos_x >= speeds2 and not ballpos_x + ballbreite <= speeds2 + schildbreite :
+#             if not ballpos_y == holz_pos6 and ballpos_x  >= speeds3 and ballpos_x + ballbreite <= speeds3 + schildbreite or ballpos_y == holz_pos1 and ballpos_x  >= speedh1 and ballpos_x + ballbreite <= speedh1 + holzbreite:
+#                 if not ballpos_y == holz_pos3 and ballpos_x  >= speedh2 and ballpos_x + ballbreite <= speedh2 + holzbreite or ballpos_y == holz_pos5 and ballpos_x  >= speedh3 and ballpos_x + ballbreite <= speedh3 + holzbreite:
